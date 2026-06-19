@@ -1,0 +1,46 @@
+{
+  "Mahdi": {
+    "Mofid": {
+      "cash": 98,
+      "loan": 0
+    },
+    "Agah": {
+      "cash": 649499708,
+      "loan": 26500000
+    },
+    "Bidar": {
+      "cash": 0,
+      "loan": 0
+    },
+    "Aseman": {
+      "cash": 0,
+      "loan": 0
+    },
+    "Pishro": {
+      "cash": 0,
+      "loan": 0
+    }
+  },
+  "Bahar": {
+    "Mofid": {
+      "cash": 0,
+      "loan": 0
+    },
+    "Agah": {
+      "cash": 0,
+      "loan": 0
+    },
+    "Bidar": {
+      "cash": 1288849408,
+      "loan": 0
+    },
+    "Aseman": {
+      "cash": 0,
+      "loan": 0
+    },
+    "Pishro": {
+      "cash": 0,
+      "loan": 0
+    }
+  }
+}
