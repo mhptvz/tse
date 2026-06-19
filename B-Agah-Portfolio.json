@@ -5,7 +5,7 @@
     "data": {
         "data": [
             {
-                "id": "fb4127c3-98a4-4c07-8a4b-d1fbdb3d7aeb",
+                "id": "e6da7cdf-8f8c-4601-9656-d86bb6159caf",
                 "snapshotDate": "0001-01-01T00:00:00",
                 "securityId": 6890,
                 "securityTitle": "رافزا",
@@ -36,7 +36,7 @@
                 "isSecurityActive": true
             },
             {
-                "id": "2e442aad-d089-47ac-96c3-68d9d45f0ee1",
+                "id": "bda23fb1-ed97-44dc-92df-9d91e7b1f83a",
                 "snapshotDate": "0001-01-01T00:00:00",
                 "securityId": 11941,
                 "securityTitle": "گدنا",
@@ -67,7 +67,7 @@
                 "isSecurityActive": true
             },
             {
-                "id": "f5691688-6cb6-4cf6-895f-3e6b3c2d02c4",
+                "id": "bbd19c2a-3d5f-4c83-8345-e94b9f5cc8d2",
                 "snapshotDate": "0001-01-01T00:00:00",
                 "securityId": 12670,
                 "securityTitle": "سپیدار",
@@ -98,7 +98,7 @@
                 "isSecurityActive": true
             },
             {
-                "id": "4fec067c-a7c0-4cb3-9f9d-e4ea128967f4",
+                "id": "29d1b9b2-d843-4d26-bb4c-2aff7dd202f1",
                 "snapshotDate": "0001-01-01T00:00:00",
                 "securityId": 24568,
                 "securityTitle": "زفارس",
@@ -129,7 +129,7 @@
                 "isSecurityActive": true
             },
             {
-                "id": "91aedece-2ce8-45ce-9203-7eb37ee019f5",
+                "id": "28d5d3d3-988b-4c54-9c5e-23a3d2d234ab",
                 "snapshotDate": "0001-01-01T00:00:00",
                 "securityId": 24819,
                 "securityTitle": "فهامون",
@@ -160,7 +160,7 @@
                 "isSecurityActive": true
             },
             {
-                "id": "08e516af-1729-4598-a601-26168b1f984f",
+                "id": "4a978203-a3f2-4edb-ac73-e20af359a441",
                 "snapshotDate": "0001-01-01T00:00:00",
                 "securityId": 28331,
                 "securityTitle": "رایا",
@@ -191,7 +191,7 @@
                 "isSecurityActive": true
             },
             {
-                "id": "5cad6741-e46a-4a77-9f15-ff7397b36288",
+                "id": "7165171e-cf80-448c-9c2b-d002bf7c256b",
                 "snapshotDate": "0001-01-01T00:00:00",
                 "securityId": 32504,
                 "securityTitle": "درپاد",
@@ -222,7 +222,7 @@
                 "isSecurityActive": true
             },
             {
-                "id": "f3a72b22-9614-490f-9801-4babe02f9b3b",
+                "id": "c8741ce6-2ea9-4630-a102-7b1df7f814c8",
                 "snapshotDate": "0001-01-01T00:00:00",
                 "securityId": 38629,
                 "securityTitle": "چاپ",
@@ -253,7 +253,7 @@
                 "isSecurityActive": true
             },
             {
-                "id": "7242b1b6-165e-4ad3-aa54-694264bcf7b0",
+                "id": "5033d6bb-329e-4d0c-999d-68f20b51e151",
                 "snapshotDate": "0001-01-01T00:00:00",
                 "securityId": 201,
                 "securityTitle": "واتی",
@@ -284,7 +284,7 @@
                 "isSecurityActive": true
             },
             {
-                "id": "b49e123b-0e35-45a1-89c8-6959708c9252",
+                "id": "ed06c1a3-a9c4-4539-9d39-230fb68b5cda",
                 "snapshotDate": "0001-01-01T00:00:00",
                 "securityId": 330,
                 "securityTitle": "شپنا",
@@ -315,7 +315,7 @@
                 "isSecurityActive": true
             },
             {
-                "id": "d6ec4319-26ab-4bfd-82f7-e5cfd92fe64e",
+                "id": "2e1e86f4-a10c-4f67-80a4-1896be63a309",
                 "snapshotDate": "0001-01-01T00:00:00",
                 "securityId": 351,
                 "securityTitle": "شبندر",
@@ -346,7 +346,7 @@
                 "isSecurityActive": true
             },
             {
-                "id": "44793c1a-0cdb-42a9-ade8-2b38a2c7ba4c",
+                "id": "d7da9d97-53da-4ac8-afb8-ea0094084d14",
                 "snapshotDate": "0001-01-01T00:00:00",
                 "securityId": 376,
                 "securityTitle": "رانفور",
@@ -377,7 +377,7 @@
                 "isSecurityActive": true
             },
             {
-                "id": "be37b477-5e94-4e5b-a4f9-a331886701a6",
+                "id": "1ee74555-758f-423a-a633-2f7ef6bdf910",
                 "snapshotDate": "0001-01-01T00:00:00",
                 "securityId": 492,
                 "securityTitle": "شپدیس",
@@ -408,7 +408,7 @@
                 "isSecurityActive": true
             },
             {
-                "id": "14e2b7aa-3c14-49eb-b3e1-84efab5ce6d7",
+                "id": "18a999ea-497d-4a7b-be29-e167c2064d49",
                 "snapshotDate": "0001-01-01T00:00:00",
                 "securityId": 583,
                 "securityTitle": "وسینا",
@@ -439,7 +439,7 @@
                 "isSecurityActive": true
             },
             {
-                "id": "50b802e0-43ed-4bbd-b496-b77bf7e2ab8b",
+                "id": "3e5d059c-e98d-497e-a484-86ea240f640c",
                 "snapshotDate": "0001-01-01T00:00:00",
                 "securityId": 963,
                 "securityTitle": "فولاد",
@@ -470,7 +470,7 @@
                 "isSecurityActive": true
             },
             {
-                "id": "05f4b38b-8a20-42e6-aec7-2858bdb7ff1e",
+                "id": "ff6ad830-7172-423c-8a88-eb9f14dd9dd6",
                 "snapshotDate": "0001-01-01T00:00:00",
                 "securityId": 4269,
                 "securityTitle": "سیمرغ",
@@ -501,7 +501,7 @@
                 "isSecurityActive": true
             },
             {
-                "id": "87f2efe1-d244-4464-9bd1-4b22ce28d6f0",
+                "id": "1086a897-a4e3-4957-9bee-4f8251f58443",
                 "snapshotDate": "0001-01-01T00:00:00",
                 "securityId": 12222,
                 "securityTitle": "پالایش",
@@ -532,7 +532,7 @@
                 "isSecurityActive": true
             },
             {
-                "id": "95a6565c-ed51-419e-860a-ddd3d35571e9",
+                "id": "6a0f8a8a-9711-40cf-a96c-48fff98c1b90",
                 "snapshotDate": "0001-01-01T00:00:00",
                 "securityId": 13230,
                 "securityTitle": "کیمیاتک",
@@ -563,7 +563,7 @@
                 "isSecurityActive": true
             },
             {
-                "id": "7cd689cd-f119-45d0-aef3-1819ba68c3ef",
+                "id": "88e2ca05-cbc6-4a0c-9af9-f3638a4276c7",
                 "snapshotDate": "0001-01-01T00:00:00",
                 "securityId": 13651,
                 "securityTitle": "اروند",
@@ -594,7 +594,7 @@
                 "isSecurityActive": true
             },
             {
-                "id": "0f263684-34ff-470b-a262-eec58851b064",
+                "id": "afbf17b0-1517-4e34-9625-6d237a3151d3",
                 "snapshotDate": "0001-01-01T00:00:00",
                 "securityId": 13885,
                 "securityTitle": "فجهان",
