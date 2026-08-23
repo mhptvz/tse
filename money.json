@@ -1,12 +1,12 @@
 {
   "Mahdi": {
     "Mofid": {
-      "cash": 48184,
+      "cash": 14321712,
       "loan": 600000000
     },
     "Agah": {
-      "cash": 3086405,
-      "loan": 497900869
+      "cash": 5013728019,
+      "loan": 489624630
     },
     "Bidar": {
       "cash": 0,
@@ -23,15 +23,15 @@
   },
   "Bahar": {
     "Mofid": {
-      "cash": 21121,
-      "loan": 0
+      "cash": 3536182,
+      "loan": 400000000
     },
     "Agah": {
       "cash": 0,
       "loan": 0
     },
     "Bidar": {
-      "cash": 64,
+      "cash": 4816119315,
       "loan": 0
     },
     "Aseman": {
