@@ -32,14 +32,14 @@
             "totalRealizedProfitAndLoss": 323436000,
             "totalRealizedProfitAndLossWithoutDps": 323436000,
             "calculationVersion": "1",
-            "dailyBuyAveragePrice": 741.743,
-            "dailySellAveragePrice": 718.62,
-            "dailyBoughtVolume": 3000000,
-            "dailySoldVolume": 3000000,
-            "periodicBuyNetPrice": 5085686293,
-            "periodicSellNetPrice": 2155860000,
-            "totalBuyNetPrice": 5085686293,
-            "totalSellNetPrice": 2155860000
+            "dailyBuyAveragePrice": 0,
+            "dailySellAveragePrice": 0,
+            "dailyBoughtVolume": 0,
+            "dailySoldVolume": 0,
+            "periodicBuyNetPrice": 5085686287,
+            "periodicSellNetPrice": 2155860013,
+            "totalBuyNetPrice": 5085686287,
+            "totalSellNetPrice": 2155860013
         },
         {
             "symbolIsin": "IRO1BMLT0001",
